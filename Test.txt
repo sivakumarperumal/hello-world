@@ -1,0 +1,7 @@
+This ia text file. 
+
+I am using this file to learn GitHub. 
+
+int x = 2+3; 
+
+int y = 4 + 5; 
